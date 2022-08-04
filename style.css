@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#count{
+  display: block;
+  margin-left: 13%;
+  font-size: 120px;
+}
+.in{
+  color: skyblue;
+  background-color: blueviolet;
+  padding: 25px 50px;
+  margin: 20px;
+  text-align: center;
+}
